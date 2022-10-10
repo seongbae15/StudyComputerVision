@@ -27,7 +27,7 @@
 - Style of One Image Transfers to Another Image.
 - Result
 
-<img src="./figures/stylized-image.png">{: width="128" height="256"}
+<img src="./figures/stylized-image.png">
 
 - Importance of Style Image.
 
