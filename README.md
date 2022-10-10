@@ -25,6 +25,11 @@
 ## Result
 
 - Style of One Image Transfers to Another Image.
+- Content
+  <img src="./figures/player.jpg">
+- Style
+  <img src="./figures/athene_academy.JPG>
+- Result
   <img src="./figures/stylized-image.png">
 
 - Importance of Style Image.
