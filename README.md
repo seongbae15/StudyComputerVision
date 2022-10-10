@@ -26,11 +26,11 @@
 
 - Style of One Image Transfers to Another Image.
 - Content
-  <img src="./figures/player.jpg">
+  <img src="./figures/player.jpg">{: width="128" height="267"}
 - Style
-  <img src="./figures/athene_academy.JPG>
+  <img src="./figures/athene_academy.JPG">{: width="512" height="256"}
 - Result
-  <img src="./figures/stylized-image.png">
+  <img src="./figures/stylized-image.png">{: width="128" height="256"}
 
 - Importance of Style Image.
 
