@@ -25,8 +25,7 @@
 ## Result
 
 - Style of One Image Transfers to Another Image.
-
-  - <img src="./figures/stylized-image.png">
+  <img src="./figures/stylized-image.png">
 
 - Importance of Style Image.
 
