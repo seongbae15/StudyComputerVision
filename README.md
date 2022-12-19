@@ -1,2 +1,4 @@
 # StudyComputerVision
-Study Repository about Computer Vision
+Study Repository about Computer Vision AI
+
+- PIFu
